@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hola 👋  soy Tomas / un dev ✨ </h1> 
 
 ## Sobre mi 🤓 :
 
