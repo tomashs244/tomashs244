@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-## What I am Good at 🧑‍💻 :
+## Mis tecnologias que uso 🧑‍💻 :
 
 <br>
 
