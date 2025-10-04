@@ -9,6 +9,8 @@
 
 <br>
 
+## Mi portafolio web :
+-https://portafoliowebtomasx64.netlify.app/-
 
 
 ## Mis tecnologias que uso 🧑‍💻 :
